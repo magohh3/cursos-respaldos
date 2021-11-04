@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Plantilla-cursos</title>
+        <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</head>
+<body>
+	<div class="row">
+		<form class="col s12">
+			<div class="row">
+				<div class="input-field col s6">
+					<p>Nombre del curso</p>
+					<input id="nombre-curso" type="text">
+					<p>Nombre del profesor</p>
+					<input id="nombre-profesor" type="text">
+					<p>Precio</p>
+					<input id="precio" type="text">
+					<p>Horario</p>
+					<input id="horario" type="text">
+					<p>Inicio</p>
+					<input id="inicio" type="text">
+					<p>Duración</p>
+					<input id="duración" type="text">
+					<input type="button" value="Generar" onclick="myFunc();">
+					<div></div>
+				</div>
+			</div>
+		</form>
+	</div>
+	<script type="text/javascript">
+	function myFunc() {
+			var curso=document.getElementById("nombre-curso").value;
+			var profesor=document.getElementById("nombre-curso").value;
+			var nombre= ""+txtval +"</p>";
+			alert(nombre);
+			}
+	</script>
+</body>
+</html>

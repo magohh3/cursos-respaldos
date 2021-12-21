@@ -1,0 +1,260 @@
+<!--LITERATURA-->
+<style type="text/css">h3 a{text-transform: uppercase;}
+	.curso{margin-bottom: 2em;}
+	.row.display-flex {
+	  display: flex;
+	  flex-wrap: wrap;
+	}
+	.row.display-flex > [class*='col-'] {
+	  display: flex;
+	  flex-direction: column;
+	}
+	@media all and (min-width: 0px) and (max-width: 991px){
+	.row.display-flex {
+	  display: block;
+	  flex-wrap: wrap;
+	}
+	}
+</style>
+<div class="row display-flex" style="margin-bottom:40px;">
+<div class="col-md-6">
+<div class="curso">
+<div class="curso-img"><a href="https://pendulo.com/especial/el-oficio-del-escritor"><img alt="" src="https://pendulo.com/archivos/oficio-del-escritor-322.png" style="width: 80px; height: 117px;" /> </a></div>
+
+<div class="curso-info">
+<h3 style="text-transform:uppercase;"><a href="https://pendulo.com/especial/el-oficio-del-escritor">El oficio del escritor:&nbsp;c&oacute;mo ir tejiendo tus historias</a></h3>
+
+<p><b>Profesora: </b>Raquel Barreda</p>
+
+<p><b>Horario: </b>Lunes 18:00 a 20:00</p>
+
+<p><b>Sesiones:&nbsp;</b>6</p>
+
+<p><b>Inicia:</b> 10 de enero de 2022</p>
+
+<p><a class="btn" href="https://www.forodeltejedor.com/evento/el-oficio-del-escritor-como-ir-tejiendo-tus-historias-2239/" target="_blank">Inscr&iacute;bete</a>&nbsp; &nbsp; &nbsp;&nbsp;<a class="btn" href="https://pendulo.com/especial/el-oficio-del-escritor">Ver m&aacute;s</a></p>
+</div>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="curso">
+<div class="curso-img"><a href="https://pendulo.com/especial/taller-de-novela"><img alt="" src="/images/especiales/122-es-creacion-de-personajes-322-1.png" style="width: 80px; height: 117px;" /> </a></div>
+
+<div class="curso-info">
+<h3><a href="/especial/taller-de-novela">TALLER NOVELA Y CREACI&Oacute;N DE PERSONAJES</a></h3>
+
+<p><b>Profesor: </b>Pedro Zavala</p>
+
+<p><b>Horario: </b>Mi&eacute;rcoles 18:00 a 20:00</p>
+
+<p><b>Sesiones: </b>6</p>
+
+<p><b>Inicia:</b> 12 de enero 2022</p>
+
+<p><a class="btn" href="https://www.forodeltejedor.com/evento/taller-de-novela-y-creacion-de-personajes-2250/" target="_blank">Inscr&iacute;bete</a>&nbsp; &nbsp; &nbsp;&nbsp;<a class="btn" href="https://pendulo.com/especial/taller-de-novela">Ver m&aacute;s</a></p>
+</div>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="curso">
+<div class="curso-img"><a href="https://pendulo.com/especial/creacion-literaria"><img alt="" src="/archivos/creacion-lit.png" style="width: 80px; height: 117px;" /> </a></div>
+
+<div class="curso-info">
+<h3><a href="/especial/creacion-literaria">TALLER DE CREACI&Oacute;N LITERARIA</a></h3>
+
+<p><b>Profesor:&nbsp;</b>&Oacute;scar de la Borbolla</p>
+
+<p><b>Horario:</b>&nbsp;Lunes 20:30 a 22:30</p>
+
+<p><b>Sesiones:&nbsp;</b>6</p>
+
+<p><b>Inicia:</b> 10 de enero de 2022</p>
+
+<p><a class="btn" href="https://www.forodeltejedor.com/evento/taller-de-creacion-literaria-2243/" target="_blank">Inscr&iacute;bete</a>&nbsp; &nbsp; &nbsp;&nbsp;<a class="btn" href="https://pendulo.com/especial/creacion-literaria">Ver m&aacute;s</a></p>
+</div>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="curso">
+<div class="curso-img"><a href="https://pendulo.com/especial/creacion-literaria-tercer"><img alt="" src="/archivos/creacion-lit.png" style="width: 80px; height: 117px;" /> </a></div>
+
+<div class="curso-info">
+<h3><a href="/especial/creacion-literaria-tercer">TALLER DE CREACI&Oacute;N LITERARIA&nbsp;</a></h3>
+
+<p><b>Profesora: </b>Euridice&nbsp;Rom&aacute;n&nbsp;</p>
+
+<p><b>Horario:&nbsp;</b>Mi&eacute;rcoles 18:00 a 20:00</p>
+
+<p><b>Sesiones: </b>6</p>
+
+<p><b>Inicia: </b>12 de enero 2022</p>
+
+<p><a class="btn" href="https://www.forodeltejedor.com/evento/creacion-literaria-2249/" target="_blank">Inscr&iacute;bete</a>&nbsp; &nbsp; &nbsp;&nbsp;<a class="btn" href="https://pendulo.com/especial/creacion-literaria-tercer">Ver m&aacute;s</a></p>
+</div>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="curso">
+<div class="curso-img"><a href="https://pendulo.com/especial/ensayo-literario"><img alt="" src="/archivos/ensayo-322.png" style="width: 80px; height: 117px;" /> </a></div>
+
+<div class="curso-info">
+<h3><a href="/especial/ensayo-literario">TALLER DE ENSAYO LITERARIO</a></h3>
+
+<p><b>Profesor:&nbsp;</b>Luis Paniagua Hern&aacute;ndez</p>
+
+<p><b>Horario:</b>&nbsp;Martes&nbsp;11:00 a 13:00&nbsp;</p>
+
+<p><b>Sesiones: </b>6</p>
+
+<p><b>Inicia:</b> 11 de enero 2022</p>
+
+<p><a class="btn" href="https://www.forodeltejedor.com/evento/taller-de-ensayo-literario-2244/" target="_blank">Inscr&iacute;bete</a>&nbsp; &nbsp; &nbsp;&nbsp;<a class="btn" href="https://pendulo.com/especial/ensayo-literario">Ver m&aacute;s</a></p>
+</div>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="curso">
+<div class="curso-img"><a href="https://pendulo.com/especial/fomento-a-la-lectura"><img alt="" src="/images/especiales/230-es-fomentar-lectura-80.png" style="width: 80px; height: 117px;" /> </a></div>
+
+<div class="curso-info">
+<h3><a href="https://pendulo.com/especial/fomento-a-la-lectura">FOMENTO A LA LECTURA</a></h3>
+
+<p><b>Profesor: </b>Omar Quintanar</p>
+
+<p><b>Horario:</b> Viernes 16:00 a 18:00</p>
+
+<p><b>Sesiones: </b>6</p>
+
+<p><b>Inicia:</b> 14 de enero de 2022</p>
+
+<p><a class="btn" href="https://www.forodeltejedor.com/evento/fomento-a-la-lectura-2256/" target="_blank">Inscr&iacute;bete</a>&nbsp; &nbsp; &nbsp;&nbsp;<a class="btn" href="https://pendulo.com/especial/fomento-a-la-lectura">Ver m&aacute;s</a></p>
+</div>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="curso">
+<div class="curso-img"><a href="https://pendulo.com/especial/taller-de-poesia-para-crear-tu-libro-de-poemas"><img alt="" src="https://pendulo.com/images/especiales/049-es-poesia.png" style="width: 80px; height: 117px;" /> </a></div>
+
+<div class="curso-info">
+<h3><a href="/especial/taller-de-poesia-para-crear-tu-libro-de-poemas">TALLER DE POES&Iacute;A: PARA CREAR TU LIBRO DE POEMAS</a></h3>
+
+<p><b>Profesora:</b> Andrea Montiel</p>
+
+<p><b>Horario:</b>&nbsp;Lunes&nbsp;18:00 a 20:00</p>
+
+<p><b>Sesiones:</b>&nbsp;6</p>
+
+<p><b>Inicia:</b> 10 enero de 2021</p>
+
+<p><a class="btn" href="https://www.forodeltejedor.com/evento/taller-de-poesia-para-crear-tu-libro-de-poemas-2240/" target="_blank">Inscr&iacute;bete</a>&nbsp; &nbsp; &nbsp;&nbsp;<a class="btn" href="https://pendulo.com/especial/taller-de-poesia-para-crear-tu-libro-de-poemas">Ver m&aacute;s</a></p>
+</div>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="curso">
+<div class="curso-img"><a href="https://pendulo.com/especial/escribir-novela"><img alt="" src="https://pendulo.com/archivos/escribir-novela_755x1176-px.png" style="width: 80px; height: 117px;" /></a></div>
+
+<div class="curso-info">
+<h3><a href="https://pendulo.com/especial/escribir-novela">APRENDE A ESCRIBIR NOVELA</a></h3>
+
+<p><b>Profesor: </b>David Guti&eacute;rrez G&oacute;mez</p>
+
+<p><b>Horario:</b> Mi&eacute;rcoles 11:00 a 13:00</p>
+
+<p><b>Sesiones: </b>6</p>
+
+<p><b>Inicia:</b> 12 de enero de 2022</p>
+
+<p><a class="btn" href="https://www.forodeltejedor.com/evento/aprende-a-escribir-novela-2247/" target="_blank">Inscr&iacute;bete</a>&nbsp; &nbsp; &nbsp;&nbsp;<a class="btn" href="https://pendulo.com/especial/escribir-novela">Ver m&aacute;s</a></p>
+</div>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="curso">
+<div class="curso-img"><a href="https://pendulo.com/especial/taller-cuento"><img alt="" src="/archivos/cuento_755x1176-px.png" style="width: 80px; height: 117px;" /> </a></div>
+
+<div class="curso-info">
+<h3><a href="https://pendulo.com/especial/taller-cuento">TALLER DE CUENTO</a></h3>
+
+<p><b>Profesor: </b>Aldo Rosales Vel&aacute;zquez</p>
+
+<p><b>Horario:</b> Jueves 17:00 a 19:00</p>
+
+<p><b>Sesiones: </b>6</p>
+
+<p><b>Inicia:</b> 13 de enero de 2022</p>
+
+<p><a class="btn" href="https://www.forodeltejedor.com/evento/taller-de-cuento-2254/" target="_blank">Inscr&iacute;bete</a>&nbsp; &nbsp; &nbsp;&nbsp;<a class="btn" href="https://pendulo.com/especial/taller-cuento">Ver m&aacute;s</a></p>
+</div>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="curso">
+<div class="curso-img"><a href="https://pendulo.com/especial/circulo-de-lectura"><img alt="" src="https://pendulo.com/images/especiales/054-es-lectura-comentada-322.png" style="width: 80px; height: 117px;" /> </a></div>
+
+<div class="curso-info">
+<h3><a href="/especial/circulo-de-lectura">CLUB DE LECTURA. NARRADORES DEL MUNDO</a></h3>
+
+<p><b>Profesor: </b>Edm&eacute;e Pardo</p>
+
+<p><b>Horario:</b> Martes 18:30 a 20:00</p>
+
+<p><b>Sesiones: </b>6</p>
+
+<p><b>Inicia:</b> 11 de enero 2021</p>
+
+<p><a class="btn" href="https://www.forodeltejedor.com/evento/lectura-comentada-narradores-del-mundo-2248/" target="_blank">Inscr&iacute;bete</a>&nbsp; &nbsp; &nbsp;&nbsp;<a class="btn" href="https://pendulo.com/especial/circulo-de-lectura">Ver m&aacute;s</a></p>
+</div>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="curso">
+<div class="curso-img"><a href="https://pendulo.com/especial/encantos-del-cuento-un-taller-para-leer"><img alt="" src="https://pendulo.com/archivos/encantos-del-cuento.png" style="width: 80px; height: 117px;" /> </a></div>
+
+<div class="curso-info">
+<h3 style="text-transform:uppercase;"><a href="https://pendulo.com/especial/encantos-del-cuento-un-taller-para-leer">Encantos del Cuento, un taller para leer y escribir en este maravilloso g&eacute;nero.</a></h3>
+
+<p><b>Profesor: </b>Ethel Krauze</p>
+
+<p><b>Horario:</b> Lunes 19:00 a 20:30 hrs</p>
+
+<p><b>Sesiones: </b>6</p>
+
+<p><b>Inicia:</b> 10 de enero de 2022</p>
+
+<p><a class="btn" href="https://www.forodeltejedor.com/evento/encantos-del-cuento-un-taller-para-leer-y-escribir-en-este-maravilloso-genero-2258/" target="_blank">Inscr&iacute;bete</a>&nbsp; &nbsp; &nbsp;&nbsp;<a class="btn" href="https://pendulo.com/especial/encantos-del-cuento-un-taller-para-leer">Ver m&aacute;s</a></p>
+</div>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="curso">
+<div class="curso-img"><a href="https://pendulo.com/especial/6-novelas-cortas"><img alt="" src="/archivos/	
+	seis-novelas-viaje-mundo.png" style="width: 80px; height: 117px;" /> </a></div>
+
+<div class="curso-info">
+<h3 style="text-transform:uppercase;"><a href="https://pendulo.com/especial/6-novelas-cortas">Club de lectura: 6 novelas cortas para viajar por el mundo.</a></h3>
+
+<p><b>Profesor: </b>Iv&aacute;n Far&iacute;as</p>
+
+<p><b>Horario:</b> Martes 19:00 a 21:00 hrs</p>
+
+<p><b>Sesiones: </b>6</p>
+
+<p><b>Inicia:</b> 11 de enero 2022</p>
+
+<p><a class="btn" href="https://www.forodeltejedor.com/evento/club-de-lectura-6-novelas-cortas-para-viajar-por-el-mundo-2242/" target="_blank">Inscr&iacute;bete</a>&nbsp; &nbsp; &nbsp;&nbsp;<a class="btn" href="https://pendulo.com/especial/6-novelas-cortas">Ver m&aacute;s</a></p>
+</div>
+</div>
+</div>
+</div>
